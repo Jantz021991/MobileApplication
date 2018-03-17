@@ -3,7 +3,7 @@
 As part of my learning in my course Enterprise Architecture and Systems Development, I am building a mobile application using Monaco for the Software build.
 I have used Nox Emulator for the layout and usability of the application.
 
-My application is simple and shows all the restaurants, shops and outdoor facilities using embedded google maps and four square API.
+My application is simple and shows all the restaurants, shops and outdoor facilities using static google map and four square API.
 
 The screenshots of my application are -
 
