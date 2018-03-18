@@ -18,6 +18,6 @@ The screenshots of my application are -
 ![Image Three](./img/Img3.jpg)
 >Filter that is currently available for this application.
 
-The link for the Android Application is given - [Android App](./Assignment2-Rest4Best.apk)
+The link for the Android Application is given - [Android App](https://jantz021991.github.io/Rest4Best/)
 
 - DJ (17th March 2018)
