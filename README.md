@@ -5,6 +5,8 @@ I have used Nox Emulator for the layout and usability of the application.
 
 My application is simple and shows all the restaurants, shops and outdoor facilities using static google map and four square API.
 
+The link for the Android Application is given - [Android App](https://jantz021991.github.io/Rest4Best/)
+
 The screenshots of my application are -
 
 ![Image One](./img/Img1.jpg)
@@ -18,6 +20,6 @@ The screenshots of my application are -
 ![Image Three](./img/Img3.jpg)
 >Filter that is currently available for this application.
 
-The link for the Android Application is given - [Android App](https://jantz021991.github.io/Rest4Best/)
+
 
 - DJ (17th March 2018)
